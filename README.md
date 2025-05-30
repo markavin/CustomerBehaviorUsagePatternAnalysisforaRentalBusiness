@@ -22,8 +22,9 @@ FITUR DASHBOARD
 
 STRUKTUR DATA
 Dashboard menggunakan dua dataset:
-Dataset harian ("https://raw.githubusercontent.com/markavin/Proyek_analisis_data_bike/refs/heads/main/day.csv")
-Dataset per jam ("https://raw.githubusercontent.com/markavin/Proyek_analisis_data_bike/refs/heads/main/hour.csv")
+Dataset harian ("https://raw.githubusercontent.com/markavin/CustomerBehaviorUsagePatternAnalysisforaRentalBusiness/main/dataset/data_1.csv")
+Dataset per jam ("https://raw.githubusercontent.com/markavin/CustomerBehaviorUsagePatternAnalysisforaRentalBusiness/main/dataset/data_2.csv")
+
 
 REQUIREMENTS
 Python 3.9 atau lebih baru

@@ -3,8 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-url_day = "https://raw.githubusercontent.com/markavin/Proyek_analisis_data_bike/main/day.csv"
-url_hour = "https://raw.githubusercontent.com/markavin/Proyek_analisis_data_bike/main/hour.csv"
+url_day = "https://raw.githubusercontent.com/markavin/CustomerBehaviorUsagePatternAnalysisforaRentalBusiness/main/dataset/data_1.csv"
+url_hour = "https://raw.githubusercontent.com/markavin/CustomerBehaviorUsagePatternAnalysisforaRentalBusiness/main/dataset/data_2.csv"
 
 day_df_new = pd.read_csv(url_day)
 hour_df_new = pd.read_csv(url_hour)

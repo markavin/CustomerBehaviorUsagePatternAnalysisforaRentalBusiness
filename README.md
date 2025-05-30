@@ -9,7 +9,7 @@ pip install streamlit pandas matplotlib seaborn
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+[streamlit run dashboard.py](https://public-bicycle-usage-analytics.streamlit.app/)
 ```
 
 FITUR DASHBOARD
